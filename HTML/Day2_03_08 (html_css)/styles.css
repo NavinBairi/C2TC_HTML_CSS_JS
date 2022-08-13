@@ -1,0 +1,60 @@
+.container
+{
+	width: 50%;
+	margin: auto;
+}
+
+.box-1
+{
+	background-color: #333333;
+	color: #ffffff;
+	padding: 100px;
+
+border: 5px red solid;
+border-left: 5px red dotted;
+border-right:5px red dotted ;
+}
+.button
+{
+color: #ffffff;
+}
+
+.branches
+{
+	border: 1px solid;
+	padding: 10px;
+	border-radius: 15;
+}
+
+.block
+{
+	float: left;
+	width: 33.3%;
+	border: 4px solid #ccc;
+	padding: 10px;
+	box-sizing: border-box;
+
+}
+
+.clr 
+{
+	clear: both;
+}
+
+.p-box
+
+{
+	width: 400px;
+	height: 500px;
+	border: 4px solid #000;
+	margin-top: 30px;
+	position: relative;
+
+}
+
+.p-box h1 
+{
+	position: absolute;
+	top:  100px;
+	left: 200px;
+}
